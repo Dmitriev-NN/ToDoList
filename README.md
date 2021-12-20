@@ -1,6 +1,6 @@
 To-do-list.
 
- !["main"]( !["success"](https://github.com/Dmitriev-NN/ToDoList/blob/main/screenshots/main "main")
+ !["main"](https://github.com/Dmitriev-NN/ToDoList/blob/main/screenshots/main "main")
 
 Notes are stored in FireBase.
 
