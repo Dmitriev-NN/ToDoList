@@ -1,6 +1,6 @@
 To-do-list.
 
- ![alt text](screenshots/main.png "main")​
+ !["main"](screenshots/main.png "main")​
 
 Notes are stored in FireBase.
 
@@ -8,6 +8,6 @@ Adding notes/deleting notes with animation made by react-transition-group.
 
 Different messages on success/failure on creating note.
 
- ![alt text](screenshots/success .png "success")
+ !["success"](screenshots/success .png "success")
 
- ![alt text](screenshots/error.png "error")
+ ![error](screenshots/error.png "error")
