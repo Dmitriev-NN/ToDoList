@@ -8,6 +8,6 @@ Adding notes/deleting notes with animation made by react-transition-group.
 
 Different messages on success/failure on creating note.
 
- !["success"](screenshots/success .png "success")
+ !["success"](https://github.com/Dmitriev-NN/ToDoList/blob/main/screenshots/success "success")
 
  ![error](https://github.com/Dmitriev-NN/ToDoList/blob/main/screenshots/error "error")
