@@ -10,4 +10,4 @@ Different messages on success/failure on creating note.
 
  !["success"](screenshots/success .png "success")
 
- ![error](screenshots/error.png "error")
+ ![error](https://github.com/Dmitriev-NN/ToDoList/blob/main/screenshots/error "error")
